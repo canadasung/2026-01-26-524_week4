@@ -1,0 +1,38 @@
+  566  pwd
+  567  git clone git@github.com:chendaniely/2026-01-12-pytest.git
+  568  cd 2026-01-12-pytest/
+  569  positron .
+  
+  572  conda activate base
+  573  conda env create -f environment.yml
+  574  conda activate pytest1
+  575  which copier
+  576  copier copy gh:pyopensci/pyos-package-template .
+  577  python
+  578  pip install -e .
+  579  python
+  580  pytest
+  581  git status
+  582  git add .
+  583  git commit -m "initial starting package"
+  584  pip install -e ".[test]"
+  585  pip install -e ".[tests]"
+  586  pytest
+  587  pytest
+  588  git status
+  589  git add .
+  590  git commit -m "add new test to add_numbers"
+  591  git push origin main
+  592  pytest
+  593  pytest
+  594  pytest
+  595  pytest
+  596  pytest
+  597  pytest
+  598  pytest --cov
+  599  pytest --cov --cov-branch
+  600  git status
+  601  git add .
+  602  git commit -m "countchar fxn and test"
+  603  git push origin main
+  604  history > history.txt
