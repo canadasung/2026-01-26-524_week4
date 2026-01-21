@@ -22,26 +22,6 @@
     ]
   },
   {
-    "objectID": "reference/index.html",
-    "href": "reference/index.html",
-    "title": "Function reference",
-    "section": "",
-    "text": "Functions to inspect docstrings.\n\n\n\nget_object\nFetch a griffe object.\n\n\npreview\nPrint a friendly representation of a griffe object (e.g. function, docstring)",
-    "crumbs": [
-      "Function reference"
-    ]
-  },
-  {
-    "objectID": "reference/index.html#some-functions",
-    "href": "reference/index.html#some-functions",
-    "title": "Function reference",
-    "section": "",
-    "text": "Functions to inspect docstrings.\n\n\n\nget_object\nFetch a griffe object.\n\n\npreview\nPrint a friendly representation of a griffe object (e.g. function, docstring)",
-    "crumbs": [
-      "Function reference"
-    ]
-  },
-  {
     "objectID": "reference/get_object.html",
     "href": "reference/get_object.html",
     "title": "get_object",
@@ -94,6 +74,26 @@
     "crumbs": [
       "Some functions",
       "get_object"
+    ]
+  },
+  {
+    "objectID": "reference/index.html",
+    "href": "reference/index.html",
+    "title": "Function reference",
+    "section": "",
+    "text": "Functions to inspect docstrings.\n\n\n\nget_object\nFetch a griffe object.\n\n\npreview\nPrint a friendly representation of a griffe object (e.g. function, docstring)",
+    "crumbs": [
+      "Function reference"
+    ]
+  },
+  {
+    "objectID": "reference/index.html#some-functions",
+    "href": "reference/index.html#some-functions",
+    "title": "Function reference",
+    "section": "",
+    "text": "Functions to inspect docstrings.\n\n\n\nget_object\nFetch a griffe object.\n\n\npreview\nPrint a friendly representation of a griffe object (e.g. function, docstring)",
+    "crumbs": [
+      "Function reference"
     ]
   }
 ]
