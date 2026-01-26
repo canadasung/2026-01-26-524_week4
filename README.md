@@ -1,5 +1,6 @@
 # 2026-01-26-pytest
 
+[![codecov](https://codecov.io/github/canadasung/2026-01-26-524_week4/graph/badge.svg?token=C7PKU1SHSJ)](https://codecov.io/github/canadasung/2026-01-26-524_week4)
 
 ## Lecture 1
 
