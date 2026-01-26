@@ -14,4 +14,4 @@
 - Semantic release based on tag version
 - Licensing
 
-## Lecture 4
+## Class notes
