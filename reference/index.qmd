@@ -1,9 +1,0 @@
-# Function reference {.doc .doc-index}
-
-## Some functions
-
-Functions to inspect docstrings.
-
-| | |
-| --- | --- |
-| [count_char](count_char.qmd#pytest1.count_char) |  |
